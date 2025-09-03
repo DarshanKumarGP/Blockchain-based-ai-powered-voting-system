@@ -8,12 +8,6 @@ This project is patent-pending. All rights reserved. Unauthorized access, reprod
 ## Contact for Access 📧
 For licensing, collaboration, or access requests:
 
-**Karthik K R**
-- 📧 Email: karthik94833@gmail.com
-- 💼 LinkedIn: [Karthik K R](https://www.linkedin.com/in/karthik-k-r-37bb52244/)
-- 🔒 Patent Status: Pending
-
-
 ## Core Features 🔐
 - Blockchain-powered vote recording and verification
 - AI-based facial recognition for voter authentication
@@ -91,8 +85,8 @@ For licensing, collaboration, or access requests:
 Setup Steps
 
 1. Clone the repository:
-    `bash  git clone https://github.com/Karthik0704/Block-chain-based-AI-driven-secure-votting-system.git`
-    `cd Block-chain-based-AI-driven-secure-votting-system`
+    `bash  git clone https://github.com/DarshanKumarGP/Blockchain-based-ai-powered-voting-system.git`
+    `cd Blockchain-based-ai-powered-voting-system`
 
 2. Create and activate virtual environment:
     `python -m venv venv`
@@ -184,6 +178,6 @@ Core Components
     Global scaling capabilities
 
 License & Usage ⚖️
-    © 2025 Karthik K R. All rights reserved. Patent pending. Unauthorized reproduction or distribution is strictly prohibited.
+    © 2025 All rights reserved. Patent pending. Unauthorized reproduction or distribution is strictly prohibited.
 
 
